@@ -22,3 +22,6 @@ SELECT "hello world" FROM bootcamp;
 
 ## Contact Information
 Email : pin.lutz@gmail.com
+
+## Image
+![Keep going!](https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg)
